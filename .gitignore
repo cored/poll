@@ -1,2 +1,3 @@
 *.swp
 polls/db/polldb
+*.pyc
